@@ -1,0 +1,6 @@
+E:\Works\Code Generator\AutomaticCodeGenerator\CGLib\bin\Debug\CGLib.dll
+E:\Works\Code Generator\AutomaticCodeGenerator\CGLib\bin\Debug\CGLib.pdb
+E:\Works\Code Generator\AutomaticCodeGenerator\CGLib\obj\Debug\Interop.MODI.dll
+E:\Works\Code Generator\AutomaticCodeGenerator\CGLib\obj\Debug\CGLib.csproj.ResolveComReference.cache
+E:\Works\Code Generator\AutomaticCodeGenerator\CGLib\obj\Debug\CGLib.dll
+E:\Works\Code Generator\AutomaticCodeGenerator\CGLib\obj\Debug\CGLib.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomaticCodeGenerator", "AutomaticCodeGenerator\AutomaticCodeGenerator.csproj", "{C56890BF-6A6E-4DF5-BE03-F2975F042EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGLib", "CGLib\CGLib.csproj", "{5BCC768C-867E-413B-AA92-1493EF51C67B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C56890BF-6A6E-4DF5-BE03-F2975F042EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56890BF-6A6E-4DF5-BE03-F2975F042EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56890BF-6A6E-4DF5-BE03-F2975F042EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56890BF-6A6E-4DF5-BE03-F2975F042EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCC768C-867E-413B-AA92-1493EF51C67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCC768C-867E-413B-AA92-1493EF51C67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCC768C-867E-413B-AA92-1493EF51C67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCC768C-867E-413B-AA92-1493EF51C67B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

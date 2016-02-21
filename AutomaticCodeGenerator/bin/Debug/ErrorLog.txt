@@ -1,0 +1,78 @@
+@Log Entry : 16:05:01 December, Sunday, 2015
+Error# :
+Message :There is already an object named 'Proc_InsertUpdate_Student' in the database.
+Source :.Net SqlClient Data Provider
+StackTrace :   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AutomaticCodeGenerator.MainForm.executeQuery(String cmdtxt) in e:\Works\Code Generator\AutomaticCodeGenerator\AutomaticCodeGenerator\MainForm.cs:line 220
+@Log Entry : 16:05:01 December, Sunday, 2015
+Error# :
+Message :There is already an object named 'Proc_Retrieve_Student' in the database.
+Source :.Net SqlClient Data Provider
+StackTrace :   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AutomaticCodeGenerator.MainForm.executeQuery(String cmdtxt) in e:\Works\Code Generator\AutomaticCodeGenerator\AutomaticCodeGenerator\MainForm.cs:line 220
+@Log Entry : 16:05:01 December, Sunday, 2015
+Error# :
+Message :There is already an object named 'Proc_Delete_Student' in the database.
+Source :.Net SqlClient Data Provider
+StackTrace :   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AutomaticCodeGenerator.MainForm.executeQuery(String cmdtxt) in e:\Works\Code Generator\AutomaticCodeGenerator\AutomaticCodeGenerator\MainForm.cs:line 220
+@Log Entry : 23:51:56 December, Sunday, 2015
+Error# :
+Message :The variable name '@Id' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@ActiveStatus".
+Must declare the scalar variable "@ActiveStatus".
+Source :.Net SqlClient Data Provider
+StackTrace :   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AutomaticCodeGenerator.MainForm.executeQuery(String cmdtxt) in e:\Works\Code Generator\AutomaticCodeGenerator\AutomaticCodeGenerator\MainForm.cs:line 240
+@Log Entry : 23:55:44 December, Sunday, 2015
+Error# :
+Message :The variable name '@Id' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@Manager".
+Must declare the scalar variable "@Manager".
+Source :.Net SqlClient Data Provider
+StackTrace :   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AutomaticCodeGenerator.MainForm.executeQuery(String cmdtxt) in e:\Works\Code Generator\AutomaticCodeGenerator\AutomaticCodeGenerator\MainForm.cs:line 240
+@Log Entry : 21:22:10 December, Sunday, 2015
+Error# :
+Message :The variable name '@Id' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@ActiveStatus".
+Must declare the scalar variable "@ActiveStatus".
+Source :.Net SqlClient Data Provider
+StackTrace :   at AutomaticCodeGenerator.Class.DAL.SQLOperation.executeQuery(String cmdtxt) in e:\Works\Code Generator\AutomaticCodeGenerator\AutomaticCodeGenerator\Class\DAL\SQLOperationProvider.cs:line 38
+   at AutomaticCodeGenerator.Class.BLL.DBOperationManager.createStoredProcedures(String& message) in e:\Works\Code Generator\AutomaticCodeGenerator\AutomaticCodeGenerator\Class\BLL\DBOperationManager.cs:line 155
+@Log Entry : 12:13:04 December, Monday, 2015
+Error# :
+Message :There is already an object named 'Employee' in the database.
+Source :.Net SqlClient Data Provider
+StackTrace :   at AutomaticCodeGenerator.Class.DAL.SQLOperation.executeQuery(String cmdtxt) in e:\Works\Code Generator\AutomaticCodeGenerator\AutomaticCodeGenerator\Class\DAL\SQLOperationProvider.cs:line 38
+   at AutomaticCodeGenerator.Class.BLL.DBOperationManager.createTable(String& message) in e:\Works\Code Generator\AutomaticCodeGenerator\AutomaticCodeGenerator\Class\BLL\DBOperationManager.cs:line 62
